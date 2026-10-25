@@ -1,3 +1,7 @@
+# ==============================
+# 原 kvmem 分支 rocm-beta 完整备份
+# ==============================
+
 # KVMem + llama.cpp
 
 **Prebuilt downloads:** [Windows x64 CUDA 13 / 12 (rc3)](https://github.com/kvmem/kvmem-llama.cpp/releases/tag/v0.16.0-rc3) · [Linux / WSL2 x86_64 (rc1)](https://github.com/kvmem/kvmem-llama.cpp/releases/tag/v0.16.0-rc1)
